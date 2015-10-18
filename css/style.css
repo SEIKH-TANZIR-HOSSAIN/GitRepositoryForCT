@@ -1,0 +1,146 @@
+            .wrapper
+            {
+                background:white;
+                margin: 0 0px 0 0px;
+                height: 100px;
+                width: 1300px;
+            }
+            .wrapper #logo
+            {
+                height: 100px;
+                width: 250px;
+                margin: 0px 0px 0px 20px;
+                background: white;
+                float: left;
+            }
+            .wrapper #banner
+            {
+                height: 100px;
+                width: 650px;
+                background: white;
+                margin: 0px 25px 5px 20px;
+                float: left;
+            }
+            .wrapper #social
+            {
+                height: 100px;
+                width: 300px;
+                background: white;
+                margin: 0px 5px 5px 5px;
+                float: left;
+            }
+            .social-link social-link--facebook
+            { display: inline;
+         
+             }             
+            .wrapper2
+            {
+                background: white; 
+                height: 20px;
+                width: 1300px;
+                margin: 0px 5px 0px 5px;
+                float: left;
+            }   
+            .wrapper2 #menu1
+            {
+                height: 20px;
+                width: 240px;
+                margin: 0px 5px 0px 35px;
+                background: white;
+                float: left;
+            } 
+            .wrapper2 #menu2
+            {
+                height: 20px;
+                width: 240px;
+                margin: 0px 5px 0px 5px;
+                background: white;
+                float: left;
+            } 
+            .wrapper3
+            {
+                height: 320px;
+                width: 1300px;
+                margin: 50px auto 0px 5px;
+                background: white;
+                float: left;
+            }
+            .wrapper3 #leftsidebar
+            {
+                height: 300px;
+                width: 200px;
+                margin: 5px;
+                background: white;
+                float: left;
+            }
+            .wrapper3 #leftsidebar #menu3
+            {
+                height: 15px;
+                width: 150px;
+                margin: 5px 5px 0px 30px;
+                background: white;
+            }
+            .wrapper3 #maincontent
+            {
+                height: 300px;
+                width: 800px;
+                margin: 5px;
+                background: white;
+                float: left;   
+            }
+            .wrapper3 #rightsidebar
+            {
+                height: 300px;
+                width: 200px;
+                margin: 5px 5px 5px 15px;
+                background: white;
+                float: left;   
+            }
+            .videoandadress 
+            {
+                height: 330px;
+                width: 1300px;
+                margin: 5px;
+                background: white;
+                float: left;
+            }
+            .videoandadress #video
+            {
+                height: 200px;
+                width: 600px;
+                margin: 5px 5px 0px 35px;
+                background: white;
+                float: left;
+            }
+            .videoandadress #address
+            {
+                height: 200px;
+                width: 600px;
+                margin: 5px 0 5px 0;
+                background: white;
+                float: left;
+            }
+            .copyrightanddeveloper
+            {
+                height: 50px;
+                width: 1300px;
+                margin: 0 5px 0 35px;
+                background: white;
+                float: left;
+            }
+            .copyrightanddeveloper #copyright
+            {   
+                height: 50px;
+                width: 600px;
+                margin: 0 5px 0 5px;
+                background: white;
+                float: left;
+            }
+            .copyrightanddeveloper #developer
+            {
+                height: 50px;
+                width: 250px;
+                margin: 0 0px 0 350px;
+                background: white;
+                float: left;
+            }
